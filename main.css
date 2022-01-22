@@ -13,8 +13,8 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(/dist/img/main-img.png) center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(/dist/img/main-img.png) center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(img/main-img.png) center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(img/main-img.png) center top;
   background-size: cover;
 }
 
@@ -201,8 +201,8 @@
 .about__bio-img {
   height: 50vh;
   width: 100vw;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(/dist/img/main-img.png) center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(/dist/img/main-img.png) center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(img/main-img.png) center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(img/main-img.png) center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -278,8 +278,8 @@ footer {
 .projects__bio-img {
   height: 30vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(/dist/img/main-img.png) center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(/dist/img/main-img.png) center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(img/main-img.png) center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(img/main-img.png) center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -400,8 +400,8 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(/dist/img/main-img.png) center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(/dist/img/main-img.png) center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.7)), to(rgba(39, 39, 39, 0.4))), url(img/main-img.png) center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.7), rgba(39, 39, 39, 0.4)), url(img/main-img.png) center top;
   background-size: cover;
 }
 
